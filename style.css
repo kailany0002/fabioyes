@@ -1,10 +1,33 @@
 body{
     margin: 0px;
+    background-image: url(foto.jpg);
 }
 .Logo{
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 150px;
-    font-size: 30px;
+    font-size: 16px;
+    margin: 5px;
+    margin-left: 47px;
+    color: white;
+}
+.Lista{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 151px;
+    margin-right: 30px;
+    color: white;
+}
+.Texto{
+    margin-left: 1300px;
+    font-size: 32px;
+    margin-right: 135px;
+    color: white;
+}
+.paragrafo{
+    margin-left: 1270px;
+    margin-top: -23px;
+    color: white;
 }
