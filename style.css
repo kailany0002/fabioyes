@@ -25,17 +25,22 @@ body{
     font-size: 32px;
     margin-right: 135px;
     color: white;
+    margin-top: 123px;
+    text-align: right;
 }
 .paragrafo{
-    margin-left: 1306px;
+    margin-left: 1307px;
     margin-top: -23px;
     color: white;
-    margin-right: 104px;
+    margin-right: 132px;
+    text-align: right;
 }
-button{
-    width: 106px;
-    height: 52px;
-    color: rgb(207, 128, 23);
+.boto1{
+    width: 155px;
+    height: 39px;
+    color: rgb(90, 52, 3);
+    background-image: linear-gradient(to bottom right, rgb(150, 98, 3), orange);
+    border-color: transparent;
 }
 .botao{
 
@@ -43,3 +48,11 @@ button{
     justify-content: end;
     padding-right: 237px;
 }
+.boto2{
+    width: 155px;
+    height: 39px;
+    color: rgb(90, 52, 2);
+    background-color: transparent;
+    border-color: orange;
+}
+
