@@ -47,6 +47,8 @@ body{
     display: flex;
     justify-content: end;
     padding-right: 237px;
+    margin-right: -191px;
+    margin-top: 25px;
 }
 .boto2{
     width: 155px;
@@ -55,4 +57,17 @@ body{
     background-color: transparent;
     border-color: orange;
 }
-
+.logo02{
+    width: 25px;
+}
+.logo03{
+    width: 25px;
+}
+.logo04{
+    width: 25px;
+}
+.logo01{
+    margin-top: 220px;
+    margin-left: -79px;
+    margin-right: 82px;
+}
